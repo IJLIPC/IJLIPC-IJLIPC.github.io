@@ -95,16 +95,46 @@
   <url>
     <loc>https://IJLIPC.github.io/zh/talk/</loc>
     <lastmod>2020-07-10T09:51:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://IJLIPC.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://IJLIPC.github.io/zh/talk/"
+                />
   </url>
   
   <url>
     <loc>https://IJLIPC.github.io/zh/talk/team/student/</loc>
     <lastmod>2020-07-10T09:51:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://IJLIPC.github.io/talk/team/student/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://IJLIPC.github.io/zh/talk/team/student/"
+                />
   </url>
   
   <url>
     <loc>https://IJLIPC.github.io/zh/talk/team/teachers/</loc>
     <lastmod>2020-07-10T09:51:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://IJLIPC.github.io/talk/team/teachers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://IJLIPC.github.io/zh/talk/team/teachers/"
+                />
   </url>
   
   <url>
@@ -140,6 +170,16 @@
   <url>
     <loc>https://IJLIPC.github.io/zh/team/</loc>
     <lastmod>2020-07-09T21:37:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://IJLIPC.github.io/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://IJLIPC.github.io/zh/team/"
+                />
   </url>
   
   <url>
@@ -160,6 +200,16 @@
   <url>
     <loc>https://IJLIPC.github.io/zh/team/my-article-name/</loc>
     <lastmod>2020-07-09T21:37:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://IJLIPC.github.io/team/my-article-name/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://IJLIPC.github.io/zh/team/my-article-name/"
+                />
   </url>
   
   <url>
