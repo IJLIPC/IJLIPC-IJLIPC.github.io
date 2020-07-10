@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | SUES</title>
+    <link>https://IJLIPC.github.io/publication-type/0/</link>
+      <atom:link href="https://IJLIPC.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 09:51:05 +0800</lastBuildDate>
+    <image>
+      <url>https://IJLIPC.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://IJLIPC.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://IJLIPC.github.io/publication/my-article-name/</link>
+      <pubDate>Fri, 10 Jul 2020 09:51:05 +0800</pubDate>
+      <guid>https://IJLIPC.github.io/publication/my-article-name/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Yongbin Gao&lt;/strong&gt;, Hyo Jong Lee, “Cross-Pose Face Recognition Based on Multiple Virtual Views and Alignment Error,” vol. 65, pp. 170-176, Nov. 2015,&lt;em&gt;Pattern Recognition Letters&lt;/em&gt;. (&lt;strong&gt;SCI&lt;/strong&gt;, IF: 2.81)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yongbin Gao&lt;/strong&gt;, Hyo Jong Lee, “Local Tiled Deep Networks for Recognition of Vehicle Make and Model,” vol. 16, no. 2, pp. 1-13, Feb. 2016,&lt;em&gt;Sensors&lt;/em&gt;. (&lt;strong&gt;SCI&lt;/strong&gt;, IF: 3.03)&lt;/li&gt;
+&lt;li&gt;Zhijun Fang (supervisor),&lt;strong&gt;Yongbin Gao&lt;/strong&gt;, Naixue Xiong, Athanasios V. Vasilakos, Yuming Fang, “A general effective rate control system based on matching measurement and inter-quantizer,” vol. 346-347, pp. 351-368, 2016,&lt;em&gt;Information Sciences&lt;/em&gt;. (&lt;strong&gt;SCI&lt;/strong&gt;, IF: 4.832)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yongbin Gao&lt;/strong&gt;, Hyo Jong Lee, “Learning warps based similarity for pose-unconstrained face recognition,”&lt;em&gt;Multimedia tools and applications&lt;/em&gt;, vol. 77, no. 2, 2018. (&lt;strong&gt;SCI&lt;/strong&gt;, IF: 2.101)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yongbin Gao&lt;/strong&gt;, Hyo Jong Lee, “Pose-invariant features and Personalized Correspondence Learning for Face Recognition,”&lt;em&gt;Neural Computing and Applications&lt;/em&gt;, vol. 31, no.1, pp. 607-616, 2019. (&lt;strong&gt;SCI&lt;/strong&gt;, IF:4.664)&lt;/li&gt;
+&lt;li&gt;Jingming Zhao,&lt;strong&gt;Juan Zhang&lt;/strong&gt;, Zhi Li, Jenq-Neng Hwang,&lt;strong&gt;Yongbin Gao&lt;/strong&gt;, and Zhijun Fang, “DD-CycleGAN: Unpaired image dehazing via Double-Discriminator Cycle-Consistent Generative Adversarial network,” Accepted by&lt;em&gt;Engineering Applications of Artificial Intelligence (EAAI)&lt;/em&gt;, December 2018. (&lt;strong&gt;SCI&lt;/strong&gt;, IF: 2.819)&lt;/li&gt;
+&lt;li&gt;Renyue Dai,&lt;strong&gt;Yongbin Gao&lt;/strong&gt;*, Zhijun Fang, Xiaoyan Jiang, Anjie Wang, Juan Zhang, Cengsi Zhong, “Unsupervised learning of depth estimation based on attention model and global pose optimization,”*Signal Processing:Image Communication*, 2019. (**SCI**, IF:2.814)&lt;/li&gt;
+&lt;li&gt;Anjie Wang#,&lt;strong&gt;Yongbin Gao&lt;/strong&gt;#, Xiaoyan Jiang, Zhijun Fang*, Shanshe Wang, Siwei Ma, Jenq-Neng Hwang. “Unsupervised learning of depth and ego-motion with spatial-temporal geometric constraints,” accepted by IEEE International Conference on Multimedia and Expo (ICME), 2019. (*CCF B*类会议)&lt;/li&gt;
+&lt;li&gt;Chen X, Zhu X. Y.,&lt;strong&gt;Wan W.B&lt;/strong&gt; Yang Z.Y, (2013).Statistics of spatial-temporal concatenations of features at human fixations in action classification. Journal of Vision, 13:520; doi:10.1167/13.9.520. SCI影响因子 3.376.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wan W.B&lt;/strong&gt;, Yang Z.Y, (2012). Statistics of Three-Dimensional Natural Scene Structure. Journal of Vision ,August 13, 12(9): 1203; doi:10.1167/12.9.1203，SCI影响因子 3.376.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wan W.B&lt;/strong&gt;, Yang Z.Y, (2012). A Visual Code Book&amp;ndash;Structured Probability Distributions in Natural Scenes. BMC Neuroscience, 13(Suppl 1):P9。 doi:10.1186/1471-2202-13-S1-P9.SCI影响因子 3.04.&lt;/li&gt;
+&lt;li&gt;Po-Han Wu, Chih-Wei Huang, Jenq-Neng Hwang, Jae-Young Pyun,&lt;strong&gt;Juan Zhang&lt;/strong&gt;. Visual Quality Driven Resource Allocation for Real-Time Surveillance Video Uplinking over OFDMA-based Wireless Networks.&lt;em&gt;IEEE Transaction on Vehicular Technology&lt;/em&gt;, 2015.64(7): p. 3233 - 3246. WOS:000358239500036&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lei Yu&lt;/strong&gt;#, Jing Liu, Changsheng Xu*, Label localization by appearance guided graph inferring, 2013*IEEE International Conference on Image Processing (ICIP)*, Melbourne, Australia, 2013.9.15-2013.9.18 (*CCF**推荐*会议)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lei Yu&lt;/strong&gt;#, Jing Liu, Changsheng Xu*, Label localization with weakly spatial constrained graph propagation, 2013*IEEE International Conference on Multimedia and Expo (ICME),* San Jose, USA, 2013.7.15-2013.7.19(*CCF**推荐*会议)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lei Yu&lt;/strong&gt;#, Jing Liu, Changsheng Xu*, Descriptive local feature groups for image classification, 2011*IEEE International Conference on Image Processing (ICIP)*, Brussels, Belgium, 2011.9.11-2011.9.14(*CCF**推荐*会议)&lt;/li&gt;
+&lt;li&gt;Lijun Zhang, et al, Obtaining diversity gain for DTV by using MIMO structure in SFN, IEEE Transaction on Broadcasting, 2004.3&lt;/li&gt;
+&lt;li&gt;Lijun Zhang, et al, A Layer-mixed FEC Scheme for Scalable Media Transmission over Mobile TV Services, IEEE Transaction on Broadcasting, 2017.6&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
