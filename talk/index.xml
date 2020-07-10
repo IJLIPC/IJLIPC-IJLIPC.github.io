@@ -31,8 +31,8 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;职称&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;教授&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;title&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Professor&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -68,8 +68,8 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;职称&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;副教授&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;title&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Associate Professor&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
